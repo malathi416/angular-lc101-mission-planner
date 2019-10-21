@@ -1,0 +1,9 @@
+.box {
+    display:inline-flex;
+    padding: 10px;
+    text-align: center;
+ }
+ .border{
+     text-align: center;
+   
+ }
